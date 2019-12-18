@@ -3,18 +3,19 @@
   "version": "0.1.0",
   "description": "Guppy Admin CLI",
   "bin": {
-    "begin": "bin/begin"
+    "guppy-admin-cli": "bin/guppy-admin-cli.js"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "guppy",
     "cli"
   ],
   "repository": {
     "type": "git",
-    "url": "https://git.dev.tencent.com/gzzhiyi/guppy_admin_vue.git"
+    "url": "https://git.dev.tencent.com/gzzhiyi/guppy_admin_cli.git"
   },
   "author": "stanley.he",
   "license": "MIT",
