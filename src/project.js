@@ -87,6 +87,9 @@ Project.prototype.injectTemplate = function(source, dest, data) {
   );
 }
 
+/**
+ * 生产项目
+ */
 Project.prototype.generate = function() {
   const { projectName, description } = this.config;
   const projectPath = path.join(process.cwd(), projectName);
@@ -161,7 +164,6 @@ Project.prototype.generate = function() {
 
             console.log();
             console.log(chalk.green('创建项目成功！'));
-            console.log(chalk.green('Let\'s Coding吧！嘿嘿😝'));
           }
         })
       })
