@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://git.dev.tencent.com/gzzhiyi/guppy_admin_cli.git"
+    "url": "https://github.com/gzzhiyi/guppy-admin-cli.git"
   },
   "author": "stanley.he",
   "license": "MIT",
