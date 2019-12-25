@@ -1,6 +1,6 @@
 {
   "name": "guppy_admin_cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Guppy Admin CLI",
   "bin": {
     "guppy-admin-cli": "bin/guppy-admin-cli.js"

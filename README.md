@@ -1,2 +1,1 @@
-# begin-cli
-A cli for init project
+# Guppy-Admin-Cli
